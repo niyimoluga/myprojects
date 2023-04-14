@@ -1,0 +1,20 @@
+file1
+lagos,'lagos'
+kano,'kano'
+kaduna,'kaduna'
+
+
+file2
+lagos,kosofe,'kosofe'
+lagos,lagos island,'Lagos Island'
+lagos,ikorodu,'ikorodu'
+
+
+file3
+lagos,ikorodu,imota 1,'imota 1'
+lagos,ikorodu,imota II,'imota II'
+s1,l1,w3,'ward 3 title'
+
+file4 
+lagos,ikorodu,imota 1,001,'JUNCTION OF ITUNMAJA/OWOYELE ST. IMOTA'
+lagos,ikorodu,imota II,002,'JUNCTION OF ATERE/MAJA/ONABU ST. IMOTA'
