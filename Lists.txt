@@ -1,0 +1,27 @@
+Phillips Consulting
+DexNova Consulting Limited
+Mckinsey & Company
+Gems Consulting Company Limited
+BusinessOntop Nigeria
+Romis Consultants Ltd
+Boston Consulting Group
+Oj And T Consulting
+Workforce Group
+Human Capital Partners
+LYD Consulting
+Accenture Nigeria
+Crenov8 Consulting Nigeria
+Proten International
+Deloitte Nigeria
+Hartford Green Consulting
+Don Quester Consulting Limited
+H. Pierson Associates
+Pedabo
+Grid Consulting
+Arup Nigeria (Ove Arup & Partners Nigeria Ltd)
+Lington & Bernie Consulting - HR Outsourcing Firm in Lagos, Nigeria
+Fosad Consulting Ltd
+
+C:\Users\NIYI\AppData\Local\Programs\Python\Python38
+
+python -m pip install --upgrade pip
