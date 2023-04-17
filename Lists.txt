@@ -25,3 +25,5 @@ Fosad Consulting Ltd
 C:\Users\NIYI\AppData\Local\Programs\Python\Python38
 
 python -m pip install --upgrade pip
+dfsfsfsfssssfsfsfsfsfadfafafaffafasfafaf
+afaffffffffffffffffffffffffffffffffffa4twsgwr
